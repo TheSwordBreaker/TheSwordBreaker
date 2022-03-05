@@ -21,5 +21,5 @@
   <img align="center" alt="Nessvah-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">   
 </div>
 
-  ![Snake animation](https://github.com/TheSwordBreaker/TheSwordBreaker/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/TheSwordBreaker/TheSwordBreaker/blob/output/github-contribution-grid-snake2.svg)
  
