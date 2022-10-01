@@ -7,7 +7,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳 💻
 
 - 💼 Intern at Virtuebyte
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 Built vite-reactts-eslint-prettier & more, **200+** stars on GitHub
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
