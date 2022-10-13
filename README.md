@@ -5,7 +5,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳 💻
 
 **About me**
 
-- 💼 Intern at Virtuebyte
+- 💼 Work at Virtuebyte
 
 - 📈 Built vite-reactts-eslint-prettier & more, **200+** stars on GitHub
 
