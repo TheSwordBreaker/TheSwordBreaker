@@ -13,7 +13,7 @@
 
 <h1 align="center">A Developer, Creator, and Open-source contributor (+314 stars)</h1>
 		
-###### • Currently a final-year Information Technology major at SIRTC. My areas of interest are Web Development,  DevOps & Opensource Software.
+###### My areas of interest are Web Development,  DevOps & Opensource Software.
 
 
   ## 📈 Stats
